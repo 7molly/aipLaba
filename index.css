@@ -1,0 +1,52 @@
+p{
+    color: orange;
+    width: 300px;
+}
+
+h1{
+    color: green;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: red;
+}
+
+.rgb{
+    color: rgb(234, 198, 64);
+}
+
+.lattice{
+    color: #000 ;
+}
+
+td{
+    width: 400px;
+    height: 300px;
+}
+
+.left{
+    text-align: left ;
+    width: auto ;
+    color: deeppink ;
+}
+
+.right{
+    text-align: right ;
+    width: auto ;
+    color: deeppink ;
+}
+.center{
+    text-align: center ;
+    width: auto ;
+    color: deeppink ;
+}
+
+.justify{
+    text-align: justify ;
+    width: 300px ;
+    color: deeppink;
+}
